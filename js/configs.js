@@ -2,7 +2,7 @@ var configs = {
   appname: "overpass-turbo",
   defaultServer: "http://ec2-54-89-33-60.compute-1.amazonaws.com/api/",
   suggestedServers: [
-    "http://ec2-54-89-33-60.compute-1.amazonaws.com/api/",
+    "http://overpass-cfn-staging.tilestream.net/api/",
     "//overpass-api.de/api/",
     "http://overpass.osm.rambler.ru/cgi/",
     "http://api.openstreetmap.fr/oapi/",
