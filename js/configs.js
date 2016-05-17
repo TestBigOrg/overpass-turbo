@@ -1,6 +1,6 @@
 var configs = {
   appname: "overpass-turbo",
-  defaultServer: "//overpass-cfn-bots-vpc-302488332.us-east-1.elb.amazonaws.com/api/",
+  defaultServer: "//overpass-cfn-staging.tilestream.net/api/",
   suggestedServers: [
     "//overpass-api.de/api/",
     "http://overpass.osm.rambler.ru/cgi/",
