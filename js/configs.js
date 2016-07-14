@@ -1,6 +1,6 @@
 var configs = {
   appname: "overpass-turbo",
-  defaultServer: "//overpass-cfn-staging.tilestream.net/api/",
+  defaultServer: "//overpass-cfn-production.tilestream.net/api/",
   suggestedServers: [
     "//overpass-api.de/api/",
     "http://overpass.osm.rambler.ru/cgi/",
