@@ -21,7 +21,7 @@ var configs = {
     zoom: 16
   },
   maxMapZoom: 20,
-  short_url_service: "",
+  short_url_service: "https://crossorigin.me/http://sajjad.in:3002/?url=",
   html2canvas_use_proxy: false,
 }
 
